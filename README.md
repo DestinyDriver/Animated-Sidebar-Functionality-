@@ -11,7 +11,7 @@ An elegant and smooth animated sidebar built using **HTML, CSS, and JavaScript**
 
 ## 🎬 Demo Video
 
-[🔗 Click to Watch the Demo]([your-demo-video-link-here](https://drive.google.com/file/d/1TldWNeG9yhGganvKMwVZuL9JGBTtxDpX/view?usp=sharing))
+[🔗 Click to Watch the Demo](https://drive.google.com/file/d/1TldWNeG9yhGganvKMwVZuL9JGBTtxDpX/view?usp=sharing)
 
 ## 📸 Preview
 
